@@ -1,0 +1,2 @@
+# ScriptableObject_Sample
+ScriptableObjectサンプル
