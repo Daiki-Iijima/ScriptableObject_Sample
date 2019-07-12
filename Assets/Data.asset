@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 136e0160a22e549c68920c238c253e1d, type: 3}
   m_Name: Data
   m_EditorClassIdentifier: 
-  enemyName: 
-  maxHp: 0
-  atk: 0
-  def: 0
-  exp: 0
-  gold: 0
+  enemyName: "\u30B9\u30E9\u30A4\u30E0"
+  maxHp: 4
+  atk: 3
+  def: 2
+  exp: 1
+  gold: 10
